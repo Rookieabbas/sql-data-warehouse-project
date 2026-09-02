@@ -70,6 +70,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
+---
+
 ##  🏗️ Architecture & Diagrams
 Visual documentation of the warehouse design, built using draw.io.
 
@@ -98,6 +100,8 @@ Visual documentation of the warehouse design, built using draw.io.
 
 
 The original editable `.drawio` source files are also available in the [DRAW.IO DIAGRAMS](DRAW.IO%20DAIGRAMS) folder for anyone who wants to open/edit them in [draw.io](https://app.diagrams.net/).
+
+---
 
 ## 📂 Repository Structure
 ```
