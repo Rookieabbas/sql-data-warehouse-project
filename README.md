@@ -75,14 +75,17 @@ Visual documentation of the warehouse design, built using draw.io.
 
 ### Data Architecture
 ![Data Architecture](DRAW.IO%20DAIGRAMS/dwh-data-architecture.png)
+
 *Overall Bronze, Silver, and Gold layer architecture of the data warehouse.*
 
 ### Data Flow Diagram
 ![Data Flow Diagram](DRAW.IO%20DAIGRAMS/dwh-data-flow-diagram.png)
+
 *How data moves from source systems through each layer of the warehouse.*
 
 ### Data Integration in Silver Layer
 ![Data Integration in Silver Layer](DRAW.IO%20DAIGRAMS/dwh-data-integration-silver-layer.png)
+
 *How data from multiple sources is cleaned, joined, and integrated at the Silver layer.*
 
 The original editable `.drawio` source files are also available in the [DRAW.IO DIAGRAMS](DRAW.IO%20DAIGRAMS) folder for anyone who wants to open/edit them in [draw.io](https://app.diagrams.net/).
