@@ -70,6 +70,23 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
+## Architecture & Diagrams
+Visual documentation of the warehouse design, built using draw.io.
+
+### Data Architecture
+![Data Architecture](DRAW.IO%20DIAGRAMS/dwh-data-architecture.png)
+*Overall Bronze, Silver, and Gold layer architecture of the data warehouse.*
+
+### Data Flow Diagram
+![Data Flow Diagram](DRAW.IO%20DIAGRAMS/dwh-data-flow-diagram.png)
+*How data moves from source systems through each layer of the warehouse.*
+
+### Data Integration in Silver Layer
+![Data Integration in Silver Layer](DRAW.IO%20DIAGRAMS/dwh-data-integration-silver-layer.png)
+*How data from multiple sources is cleaned, joined, and integrated at the Silver layer.*
+
+The original editable `.drawio` source files are also available in the [DRAW.IO DIAGRAMS](DRAW.IO%20DIAGRAMS) folder for anyone who wants to open/edit them in [draw.io](https://app.diagrams.net/).
+
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
