@@ -70,7 +70,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-## Architecture & Diagrams
+##  🏗️ Architecture & Diagrams
 Visual documentation of the warehouse design, built using draw.io.
 
 ### Data Architecture
