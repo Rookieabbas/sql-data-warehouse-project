@@ -1,0 +1,64 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="EbNRPBXE-vwku5D62CZ9">
+    <mxGraphModel dx="1030" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;dashed=1;" value="" vertex="1">
+          <mxGeometry height="320" width="120" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Sources&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="95" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-14" edge="1" parent="1" source="vTBUcpE_QVucj7j3GBtj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vTBUcpE_QVucj7j3GBtj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-15" edge="1" parent="1" source="vTBUcpE_QVucj7j3GBtj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vTBUcpE_QVucj7j3GBtj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-16" edge="1" parent="1" source="vTBUcpE_QVucj7j3GBtj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vTBUcpE_QVucj7j3GBtj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" value="CRM" vertex="1">
+          <mxGeometry height="56.00000000000001" width="69" x="106" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-17" edge="1" parent="1" source="vTBUcpE_QVucj7j3GBtj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vTBUcpE_QVucj7j3GBtj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-18" edge="1" parent="1" source="vTBUcpE_QVucj7j3GBtj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vTBUcpE_QVucj7j3GBtj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-19" edge="1" parent="1" source="vTBUcpE_QVucj7j3GBtj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vTBUcpE_QVucj7j3GBtj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-4" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" value="ERP" vertex="1">
+          <mxGeometry height="56.00000000000001" width="69" x="105.5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="Bronze layer" vertex="1">
+          <mxGeometry height="30" width="80" x="280" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="320" width="120" x="260" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;crm_sales_details&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="crm_cust_info" vertex="1">
+          <mxGeometry height="30" width="80" x="280" y="286" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;erp_px_cat_g1v2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="280" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;erp_loc_a101&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="280" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;erp_cust_az12&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="280" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="vTBUcpE_QVucj7j3GBtj-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="crm_prd_info" vertex="1">
+          <mxGeometry height="30" width="80" x="280" y="332" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
