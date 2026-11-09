@@ -138,5 +138,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 I'm Abbas Raza, a final-year Computer Science student based in Lucknow, India, currently preparing for placements as an aspiring Data Analyst. I'm building hands-on skills in SQL, Python, Excel, and Power BI through real projects like this one.
 Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abbas-raza-b4530128b)
